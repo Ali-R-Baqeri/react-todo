@@ -1,0 +1,13 @@
+
+.header{
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(192, 40, 192);
+    padding: 1rem;
+    text-transform: uppercase;
+}
+
+.header h3{
+    color: #fff;
+    padding-bottom: .5rem;
+}

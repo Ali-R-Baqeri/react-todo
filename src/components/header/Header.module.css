@@ -1,0 +1,51 @@
+.header{
+    height: 100vh;
+    background-color: #f78888;
+    padding: 1rem;
+    box-shadow: 1rem 0 2rem rgba(0, 0, 0, .3);
+}
+
+.header h1{
+    font-size: 1rem;
+    margin-top: -.75rem;
+    margin-bottom: 1rem;
+    color: #fff;
+    font-weight: 100;
+}
+
+.user{
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #fff;
+    margin-bottom: 1rem;
+}
+
+.user div{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: .7rem;
+    font-size: 1.25rem;
+    background-color: #fff;
+    display: inline-block;
+}
+
+.user span{
+    margin-left: .5rem;
+    font-weight: 600;
+}
+
+.guid p{
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.guid ul{
+    list-style: decimal;
+    display: flex;
+    flex-direction: column;
+    row-gap: .5rem;
+    padding-left: 1rem;
+    color: rgba(0, 0, 0, .7);
+    margin-left: rem;
+}
